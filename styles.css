@@ -40,4 +40,7 @@
     flex-basis: 230px;
     position: relative;
     overflow-y: auto;
-  }  
+  }
+.panel__switcher {
+    position: initial;
+}
